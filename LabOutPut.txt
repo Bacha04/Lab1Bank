@@ -1,0 +1,5 @@
+{"name":"Гришко І.С","date_of_birth":"16.03.1994","phone_num":"+380506687708","bank_id":1,"fop_group":2,"cereer":"Акторська діяльність"}
+{"name":"Стрижак Г.П","date_of_birth":"02.01.2002","phone_num":"+380933430501","bank_id":2,"fop_group":1,"cereer":"Сервісні послуги"}
+{"name":"Шевченко О.М","date_of_birth":"29.11.1971","phone_num":"+380674315781","bank_id":3,"fop_group":4,"cereer":"Будівельні роботи"}
+{"name":"Шпак М.М","date_of_birth":"11.08.1981","phone_num":"+380634445154","bank_id":4,"fop_group":2,"cereer":"IT"}
+{"name":"Бачинський Є.О","date_of_birth":"20.06.2004","phone_num":"+380506208645","bank_id":3,"fop_group":5,"cereer":"ІТ"}
